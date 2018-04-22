@@ -216,7 +216,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/e7-common/proprietary/lib/libsomxadpcmd.so:system/lib/libsomxadpcmd.so \
     vendor/samsung/e7-common/proprietary/lib/libsyncmldm.so:system/lib/libsyncmldm.so \
     vendor/samsung/e7-common/proprietary/lib/libsomxvp8d.so:system/lib/libsomxvp8d.so \
-    vendor/samsung/e7-common/proprietary/lib/lib_SoundAlive_VSP_ver315b_arm.so:system/lib/lib_SoundAlive_VSP_ver315b_arm.so \
     vendor/samsung/e7-common/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
     vendor/samsung/e7-common/proprietary/lib/libsthmb.so:system/lib/libsthmb.so \
     vendor/samsung/e7-common/proprietary/lib/libsxqk.so:system/lib/libsxqk.so \
